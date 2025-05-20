@@ -12,7 +12,7 @@ Brand color: #e67e22
 
 - [x] Logo + Navigation
 - [x] Hero
-- [ ] Featured in
+- [x] Featured in
 - [x] How it works
 - [ ] Meals (and list of diets)
 - [ ] Testimonials + gallery
