@@ -10,7 +10,7 @@ This is for learning purposes, with udemy's course [Build Responsive Real-World 
 
 Brand color: #e67e22
 
-- [ ] Logo + Navigation
+- [x] Logo + Navigation
 - [x] Hero
 - [ ] Featured in
 - [x] How it works
