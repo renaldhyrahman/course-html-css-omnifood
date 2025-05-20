@@ -11,7 +11,7 @@ This is for learning purposes, with udemy's course [Build Responsive Real-World 
 Brand color: #e67e22
 
 - [ ] Logo + Navigation
-- [ ] Hero
+- [x] Hero
 - [ ] Featured in
 - [ ] How it works
 - [ ] Meals (and list of diets)
