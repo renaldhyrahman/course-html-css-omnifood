@@ -177,13 +177,13 @@ body {
 }
 
 .btn--outline:link,
-.btn--full:visited {
+.btn--outline:visited {
   background-color: #fff;
   color: #555;
 }
 
 .btn--outline:hover,
-.btn--full:active {
+.btn--outline:active {
   background-color: #fdf2e9;
 
   /* This make the other elements jumps a bit */
