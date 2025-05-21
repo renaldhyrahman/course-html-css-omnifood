@@ -18,6 +18,6 @@ Brand color: #e67e22
 - [x] Testimonials + gallery
 - [x] Pricing + features
 - [x] CTA
-- [ ] Footer
+- [x] Footer
 
 ![section-plan](./omnifood-assets/plan.png)
