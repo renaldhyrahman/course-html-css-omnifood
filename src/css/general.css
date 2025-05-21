@@ -13,7 +13,8 @@ Bold: 700
 Default: 1
 Small: 1.05
 Medium: 1.2
-Paragraph default: 1.8
+Paragraph default: 1.6
+Large: 1.8
 
 - Letter spacing
 -0.5px
@@ -48,7 +49,9 @@ Medium: 11px
 html {
   /* browser default = 16px */
   /* 10px / 16px = 0.625 */
+  /* Percentage of user's browser font-size setting */
   font-size: 62.5%;
+  overflow-x: hidden;
 }
 
 body {
@@ -56,6 +59,9 @@ body {
   line-height: 1;
   font-weight: 400;
   color: #555;
+
+  /* Only works if there is nothing absolutely positioned in relation to body */
+  overflow-x: hidden;
 }
 
 /* -------- REUSEABLE COMPONENTS -------- */
@@ -171,13 +177,13 @@ body {
 }
 
 .btn--outline:link,
-.btn--full:visited {
+.btn--outline:visited {
   background-color: #fff;
   color: #555;
 }
 
 .btn--outline:hover,
-.btn--full:active {
+.btn--outline:active {
   background-color: #fdf2e9;
 
   /* This make the other elements jumps a bit */
@@ -224,6 +230,7 @@ body {
 
 .list-item {
   font-size: 1.8rem;
+  line-height: 1.2;
 
   display: flex;
   align-items: center;
