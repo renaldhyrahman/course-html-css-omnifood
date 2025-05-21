@@ -16,7 +16,7 @@ Brand color: #e67e22
 - [x] How it works
 - [x] Meals (and list of diets)
 - [x] Testimonials + gallery
-- [ ] Pricing + features
+- [x] Pricing + features
 - [ ] CTA
 - [ ] Footer
 
