@@ -17,7 +17,7 @@ Brand color: #e67e22
 - [x] Meals (and list of diets)
 - [x] Testimonials + gallery
 - [x] Pricing + features
-- [ ] CTA
+- [x] CTA
 - [ ] Footer
 
 ![section-plan](./omnifood-assets/plan.png)
