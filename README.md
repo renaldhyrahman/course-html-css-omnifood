@@ -9,6 +9,10 @@ For learning purposes, following the Udemy course:
 
 ### [Live Site](https://omnifood-ren.netlify.app/)
 
+## 📌 Project Goal
+
+This project helped solidify my fundamentals in HTML5 and CSS3.
+
 ## Sections
 
 Brand color: #e67e22
@@ -28,13 +32,13 @@ Brand color: #e67e22
 ## Git Workflow (Learning phase)
 
 I keep `main` clean and production-ready.  
-All work is done in feature branches and merged into `dev` during development.  
-Each section or feature has its own descriptive, encapsulated branch.  
+All development happens in feature branches and is merged into `dev` during development.  
+Each section or feature lives in its own clearly named, encapsulated branch.
 Commit messages follow the **Conventional Commits** format for clarity.  
-Merges use `--no-ff` to preserve full history.  
-Merged branches are deleted to keep things clean.
+I use `--no-ff` merges to preserve the full commit history.  
+Merged branches are deleted to keep the repo tidy.
 
-I made the mistake of mixing CLI merges and GitHub PRs for `dev` → `main`, which caused some overlap.  
-I'll stick to a single method moving forward.
+I once mixed CLI merges and GitHub PRs for `dev` → `main`, which led to some overlap in history. 
+Going forward, I’ll stick to a single method to avoid confusion.
 
-This is a learning project. Feedback is always welcome!
+This is a learning project — feedback is always welcome!
