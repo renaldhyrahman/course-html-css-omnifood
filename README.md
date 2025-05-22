@@ -4,9 +4,10 @@
 
 ### Instructor [Jonas Schmedtmann](https://jonas.io/)
 
-This is for learning purposes, with udemy's course [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/).
+For learning purposes, following the Udemy course:
+[Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/).
 
-### Deployed [Link](https://omnifood-ren.netlify.app/)
+### [Live Site](https://omnifood-ren.netlify.app/)
 
 ## Sections
 
@@ -22,4 +23,18 @@ Brand color: #e67e22
 - [x] CTA
 - [x] Footer
 
-![Draft of Web Layout](./omnifood-assets/plan.webp)
+![Web Layout Draft](./omnifood-assets/plan.webp)
+
+## Git Workflow (Learning phase)
+
+I keep `main` clean and production-ready.  
+All work is done in feature branches and merged into `dev` during development.  
+Each section or feature has its own descriptive, encapsulated branch.  
+Commit messages follow the **Conventional Commits** format for clarity.  
+Merges use `--no-ff` to preserve full history.  
+Merged branches are deleted to keep things clean.
+
+I made the mistake of mixing CLI merges and GitHub PRs for `dev` → `main`, which caused some overlap.  
+I'll stick to a single method moving forward.
+
+This is a learning project. Feedback is always welcome!
