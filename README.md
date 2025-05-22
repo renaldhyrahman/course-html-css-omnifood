@@ -9,7 +9,7 @@ For learning purposes, following the Udemy course:
 
 ### [Live Site](https://omnifood-ren.netlify.app/)
 
-## 📌 Project Goal
+## Project Goal
 
 This project helped solidify my fundamentals in HTML5 and CSS3.
 
