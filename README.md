@@ -20,4 +20,4 @@ Brand color: #e67e22
 - [x] CTA
 - [x] Footer
 
-![section-plan](./omnifood-assets/plan.png)
+![Draft of Web Layout](./omnifood-assets/plan.webp)
