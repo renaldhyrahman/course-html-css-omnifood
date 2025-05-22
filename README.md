@@ -6,6 +6,8 @@
 
 This is for learning purposes, with udemy's course [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/).
 
+### Deployed [Link](https://omnifood-ren.netlify.app/)
+
 ## Sections
 
 Brand color: #e67e22
